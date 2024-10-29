@@ -1,6 +1,6 @@
 MakeCode program for hardware test / diagnostics of micro:bits. This is the receiver part, which works in conjunction with the main program for the micro:bit unit to be tested.
 
-Se here for full details and instructions:<BR>
+Se here for the main test unit program, full details and instructions:<BR>
 https://github.com/Vegz78/microbit_test_testunit
 
 <BR>
