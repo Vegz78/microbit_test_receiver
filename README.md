@@ -1,4 +1,9 @@
+MakeCode program for hardware test / diagnostics of micro:bits. This is the receiver part, which works in conjunction with the main program for the micro:bit unit to be tested.
 
+Se here for full details and instructions:
+
+
+<BR>
 > Åpne denne siden på [https://vegz78.github.io/microbit_test_receiver/](https://vegz78.github.io/microbit_test_receiver/)
 
 ## Bruk som utvidelse
